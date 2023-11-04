@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace restarunttest2
 {
-    public class Controls
-    {
+    public class Classname
+    {// you can make another class here if you want to
     }
 }
