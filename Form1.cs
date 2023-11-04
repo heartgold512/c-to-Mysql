@@ -11,12 +11,9 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 
-namespace restarunttest2
+namespace namespaceo //enter a namespace here which relates to your project like your db name or something
 {
-    
 
-    //Restrauntdb connection
-    //these are placeholders ie change (name and password) // 
     public partial class Form1 : Form
     {
         private Timer lockouttimer;
