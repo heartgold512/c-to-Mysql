@@ -58,7 +58,7 @@ namespace restarunttest2
 
 private void Form1_Load(object sender, EventArgs e)
         {
-            string connectionDb = "Server=localhost;Port=3306;Database=restrauntdb2;User=admin;Password=intrestingpassword;";
+            string connectionDb = "Server=localhost;Port=3306;Database=databasename;User=name;Password=passwordname;";  //modify the names to the actual name, im assuming you are using a localhost and port 3306 standard port
             MySqlConnection connection = new MySqlConnection(connectionDb);
             try
             {
