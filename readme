@@ -1,7 +1,8 @@
 c# connecting to MySql write queries! -it's important to check the type of Sql you are using so please please figure that out first before getting runtime errors and using 
 your precious time such as error Cl 1705.
 You can make many improvments and fork this freely, many things can be improved like the headers etc but this is pretty much set up
-If you do make a few improvments please could you get in touch? i'm looking to improve my coding skills and programming as a whole.
+If you do make a few improvments please could you get in touch? i'm looking to improve my coding skills and programming as a whole i dont have much experience in forms 
+so i did make this on a wim.
 
 installing MYSQL 8.2.NET connector (please select the right one)  and put in Program files it suggests thinks its x86 here is the link:
 *link*
