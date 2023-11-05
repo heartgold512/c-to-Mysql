@@ -1,6 +1,6 @@
 c# connecting to MySql write queries! -it's important to check the type of Sql you are using so please please figure that out first before getting runtime errors and using 
 your precious time.
-
+You can make many improvments and fork this freely, many things can be improved like the headers etc.
 
 installing Mysql 8.2 msi connector and put in Program files it suggests thinks its x86 here is the link:
 *link*
